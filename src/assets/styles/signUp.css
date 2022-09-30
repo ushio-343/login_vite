@@ -1,4 +1,69 @@
-.fullcontent{
-    border: solid gray;
+.fullContent{
+    margin: 10px;
+    flex-direction: initial;
     justify-content: center;
+}
+
+#nombre{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+
+#email{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+
+#carrera{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+#cuatri{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+#direccion{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+#telefono{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+#cumpleanos{
+    font-size: 20px;
+    background-color: antiquewhite;
+
+}
+#inscripcion{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+#button{
+    font-size: 20px;
+}
+
+.nombre{
+    padding: 7px;
+}
+.email{
+    padding: 7px;
+}
+.carrera{
+    padding: 7px;
+}
+.cuatrimestre{
+    padding: 7px;
+}
+.direccion{
+    padding: 7px;
+}
+.telefono{
+    padding: 7px;
+}
+.cumpleanos{
+    padding: 7px;
+}
+.inscripcion{
+    padding: 7px;
 }
